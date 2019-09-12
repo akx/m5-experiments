@@ -1,0 +1,331 @@
+[
+  {
+    "name": "UIFlow",
+    "description": "maybe nooooooooo bug",
+    "keywords": "ESP32, Micropython",
+    "author": "EeeeBin",
+    "repository": "https://github.com/sakabin/UIFlow-Firmware",
+    "firmware_category": [
+      {
+        "Stack-EN": {
+          "path": "firmware_en",
+          "device": [
+            "M5Stack Core"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "Stack-CN": {
+          "path": "firmware_cn",
+          "device": [
+            "M5Stack Core"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "Stick": {
+          "path": "firmware_Stick",
+          "device": [
+            "M5Stack Stick"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "StickC": {
+          "path": "firmware_StickC",
+          "device": [
+            "M5Stack StickC"
+          ],
+          "default_baud": 750000
+        }
+      }
+    ],
+    "version": "1.2.3",
+    "framework": "Micropython",
+    "download_link": "https://codeload.github.com/sakabin/UIFlow-Firmware/zip/1.2.3"
+  },
+  {
+    "name": "UIFlow",
+    "description": "maybe nooooooooo bug",
+    "keywords": "ESP32, Micropython",
+    "author": "EeeeBin",
+    "repository": "https://github.com/sakabin/UIFlow-Firmware",
+    "firmware_category": [
+      {
+        "Stack-EN": {
+          "path": "firmware_en",
+          "device": [
+            "M5Stack Core"
+          ],
+          "default_baud": 921600
+        }
+      }
+    ],
+    "version": "1.3.1-Beta",
+    "framework": "Micropython",
+    "download_link": "https://codeload.github.com/EeeeBin/UIFlow-Firmware/zip/1.3.1"
+  },
+  {
+    "name": "Esp32Cam-Nopsram",
+    "description": "Esp32Cam(No psram) factory firmware",
+    "keywords": "",
+    "author": "M5Stack",
+    "repository": "",
+    "firmware_category": {
+      "path": "firmware",
+      "device": [
+        "Esp32Camera"
+      ],
+      "default_baud": 921600
+    },
+    "version": "1.0.1",
+    "framework": "Esp IDF"
+  },
+  {
+    "name": "M5Faces-Kit",
+    "description": "Faces Kit factory firmware",
+    "keywords": "",
+    "author": "M5Stack",
+    "repository": "",
+    "firmware_category": {
+      "path": "firmware",
+      "device": [
+        "Faces Kit"
+      ],
+      "default_baud": 921600
+    },
+    "version": "1.0.0",
+    "framework": "Esp IDF"
+  },
+  {
+    "name": "M5Camera",
+    "description": "M5Camera factory firmware",
+    "keywords": "",
+    "author": "M5Stack",
+    "repository": "",
+    "firmware_category": [
+      {
+        "Model A": {
+          "path": "firmware_Model_A",
+          "device": [
+            "M5Camera Model A"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "Model B": {
+          "path": "firmware_Model_B",
+          "device": [
+            "M5Camera Model B"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "CameraF": {
+          "path": "firmware_F",
+          "device": [
+            "M5CameraF"
+          ],
+          "default_baud": 921600
+        }
+      }
+    ],
+    "version": "1.0.0",
+    "framework": "Esp IDF"
+  },
+  {
+    "name": "M5Camera-QRScan",
+    "description": "https://github.com/m5stack/m5stack-cam-psram",
+    "keywords": "",
+    "author": "M5Stack",
+    "repository": "",
+    "firmware_category": [
+      {
+        "Camera A": {
+          "path": "CameraA",
+          "device": [
+            "M5Camera A"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "Camera B": {
+          "path": "CameraB",
+          "device": [
+            "M5Camera B"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "Camera F": {
+          "path": "CameraF",
+          "device": [
+            "M5Camera F"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "Camera X": {
+          "path": "CameraX",
+          "device": [
+            "M5Camera X"
+          ],
+          "default_baud": 921600
+        }
+      }
+    ],
+    "version": "1.0.0",
+    "framework": "Esp IDF"
+  },
+  {
+    "name": "UIFlow",
+    "description": "Base Micropython v1.11",
+    "keywords": "ESP32, Micropython",
+    "author": "EeeeBin",
+    "repository": "https://github.com/sakabin/UIFlow-Firmware",
+    "firmware_category": [
+      {
+        "Stack-EN": {
+          "path": "firmware_en",
+          "device": [
+            "M5Stack Core"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "Stack-CN": {
+          "path": "firmware_cn",
+          "device": [
+            "M5Stack Core"
+          ],
+          "default_baud": 921600
+        }
+      }
+    ],
+    "version": "1.3.2",
+    "framework": "Micropython"
+  },
+  {
+    "name": "UIFlow",
+    "description": "Base Micropython v1.11",
+    "keywords": "ESP32, Micropython",
+    "author": "EeeeBin",
+    "repository": "https://github.com/sakabin/UIFlow-Firmware",
+    "firmware_category": [
+      {
+        "Stack-EN": {
+          "path": "firmware_en",
+          "device": [
+            "M5Stack Core"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "Stack-CN": {
+          "path": "firmware_cn",
+          "device": [
+            "M5Stack Core"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "StickC": {
+          "path": "firmware_StickC",
+          "device": [
+            "M5Stack StickC"
+          ],
+          "default_baud": 750000
+        }
+      }
+    ],
+    "version": "1.3.5-beta",
+    "framework": "Micropython"
+  },
+  {
+    "name": "UIFlow",
+    "description": "Base Micropython v1.11",
+    "keywords": "ESP32, Micropython",
+    "author": "EeeeBin",
+    "repository": "https://github.com/sakabin/UIFlow-Firmware",
+    "firmware_category": [
+      {
+        "Stack-EN": {
+          "path": "firmware_en",
+          "device": [
+            "M5Stack Core"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "Stack-CN": {
+          "path": "firmware_cn",
+          "device": [
+            "M5Stack Core"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "StickC": {
+          "path": "firmware_StickC",
+          "device": [
+            "M5Stack StickC"
+          ],
+          "default_baud": 750000
+        }
+      }
+    ],
+    "version": "1.4.0-beta",
+    "framework": "Micropython"
+  },
+  {
+    "name": "LovyanLauncher",
+    "description": "M5Stack Tools & Application Launcher",
+    "keywords": "Lovyan,Launcher",
+    "author": "lovyan03",
+    "repository": "https://github.com/lovyan03/lovyanlauncher-Firmware",
+    "firmware_category": [
+      {
+        "Stack-4MB": {
+          "path": "firmware_4MB",
+          "device": [
+            "M5Stack 4MB Model (default partition)"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "Stack-16MB": {
+          "path": "firmware_16MB",
+          "device": [
+            "M5Stack 16MB Model"
+          ],
+          "default_baud": 921600
+        }
+      },
+      {
+        "Stack-4MB_minSPIFFS": {
+          "path": "firmware_4MB_minspiffs",
+          "device": [
+            "M5Stack 4MB Model (min SPIFFS partition)"
+          ],
+          "default_baud": 921600
+        }
+      }
+    ],
+    "version": "0.2.1",
+    "framework": "Arduino IDE"
+  }
+]
